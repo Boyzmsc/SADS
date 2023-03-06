@@ -31,15 +31,6 @@ Based on one-to-one communication between the BLE device and the server, the pro
 
 ## 4. 팀 소개
 
-**김상철 교수님**
-
-<img src = "https://user-images.githubusercontent.com/28584213/159163985-37777cfa-d126-428c-aab1-a038c499af15.png" width = "25%">
-
-```markdown
-🎓 소프트웨어융합대학 교수
-📌 프로젝트 지도교수
-```
-
 **노용준**
 
 <img src = "https://user-images.githubusercontent.com/28584213/157808058-22792714-98fc-49da-a639-515169c2d017.jpg" width = "25%">
@@ -51,7 +42,7 @@ Based on one-to-one communication between the BLE device and the server, the pro
 
 **문성찬**
 
-<img src = "https://user-images.githubusercontent.com/28584213/158019321-eabfa719-12ae-4342-ad90-de6d5113936a.jpg" width = "25%">
+<img src = "https://user-images.githubusercontent.com/28584213/223139466-901a8e4e-47b4-49b6-9f7e-1389f8125684.jpg" width = "25%">
 
 ```markdown
 🎓 20171620
