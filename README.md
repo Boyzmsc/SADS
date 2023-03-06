@@ -35,19 +35,12 @@ Based on one-to-one communication between the BLE device and the server, the pro
 
 <img src = "https://user-images.githubusercontent.com/28584213/157808058-22792714-98fc-49da-a639-515169c2d017.jpg" width = "25%">
 
-```markdown
-🎓 20171616
-📌 연구, 서버 개발, 실험, 성능 평가
-```
+<br/>
 
 **문성찬**
 
 <img src = "https://user-images.githubusercontent.com/28584213/223139466-901a8e4e-47b4-49b6-9f7e-1389f8125684.jpg" width = "25%">
 
-```markdown
-🎓 20171620
-📌 연구, 서버 개발, 실험, 보고서 작성, 일정 관리
-```
 
 ## 5. 사용법
 
